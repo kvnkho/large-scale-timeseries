@@ -1,8 +1,5 @@
 statsforecast
 fugue
 seaborn
-datasetsforecast
-hierarchicalforecast
-dask[distributed]
-coiled
 scikit-learn
+pyspark
