@@ -1,0 +1,9 @@
+statsforecast
+fugue
+boto3
+seaborn
+datasetsforecast
+hierarchicalforecast
+dask[distributed]
+coiled
+scikit-learn
